@@ -1,0 +1,28 @@
+default_platform(:ios)
+
+ENV["FASTLANE_XCODEBUILD_SETTINGS_RETRIES"] = "4"
+
+platform :ios do
+
+  	lane :tests do
+  	run_tests(
+     	  devices: ["iPhone 8"],
+      	  scheme: "CalculatorReplicaSwiftUI"
+    	)
+	end
+
+	lane :snapshot_tests do
+  	run_tests(
+     	  devices: ["iPhone 14 Pro (16.4)"],
+      	  scheme: "CalculatorReplicaSwiftUISnapshotTests"
+    	)
+	end
+
+	lane :automation_tests do
+  	run_tests(
+     	  devices: ["iPhone 14 Pro (16.4)"],
+      	  scheme: "CalculatorReplicaSwiftUIAutomationTests"
+    	)
+	end
+
+end

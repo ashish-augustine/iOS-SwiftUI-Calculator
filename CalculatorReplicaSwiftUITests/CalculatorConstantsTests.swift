@@ -2,8 +2,8 @@
 //  CalculatorConstantsTests.swift
 //  CalculatorReplicaSwiftUITests
 //
-//  Created by Alonso on 16/02/24.
-//  Copyright © 2024 Alonso. All rights reserved.
+//  Created by Ashish Augustine on 16/02/24.
+//  Copyright © 2024 Ashish Augustine. All rights reserved.
 //
 
 @testable import Calculator

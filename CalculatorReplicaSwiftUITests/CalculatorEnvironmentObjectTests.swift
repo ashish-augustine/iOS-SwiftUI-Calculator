@@ -2,8 +2,8 @@
 //  CalculatorEnvironmentObjectTests.swift
 //  CalculatorReplicaSwiftUITests
 //
-//  Created by Alonso on 20/11/23.
-//  Copyright © 2023 Alonso. All rights reserved.
+//  Created by Ashish Augustine on 20/11/23.
+//  Copyright © 2023 Ashish Augustine. All rights reserved.
 //
 
 import XCTest

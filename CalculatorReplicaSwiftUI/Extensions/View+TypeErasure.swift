@@ -2,8 +2,8 @@
 //  View+TypeErasure.swift
 //  CalculatorReplicaSwiftUI
 //
-//  Created by Alonso on 6/9/20.
-//  Copyright © 2020 Alonso. All rights reserved.
+//  Created by Ashish Augustine on 6/9/20.
+//  Copyright © 2020 Ashish Augustine. All rights reserved.
 //
 
 import SwiftUI

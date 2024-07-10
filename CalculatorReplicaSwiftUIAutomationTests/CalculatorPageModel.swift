@@ -2,8 +2,8 @@
 //  CalculatorPageModel.swift
 //  CalculatorReplicaSwiftUIAutomationTests
 //
-//  Created by Alonso on 4/02/24.
-//  Copyright © 2024 Alonso. All rights reserved.
+//  Created by Ashish Augustine on 4/02/24.
+//  Copyright © 2024 Ashish Augustine. All rights reserved.
 //
 
 import XCTest

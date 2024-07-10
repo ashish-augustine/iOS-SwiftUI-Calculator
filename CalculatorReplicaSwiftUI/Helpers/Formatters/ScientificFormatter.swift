@@ -2,8 +2,8 @@
 //  ScientificFormatter.swift
 //  CalculatorReplicaSwiftUI
 //
-//  Created by Alonso on 4/20/20.
-//  Copyright © 2020 Alonso. All rights reserved.
+//  Created by Ashish Augustine on 4/20/20.
+//  Copyright © 2020 Ashish Augustine. All rights reserved.
 //
 
 import Foundation

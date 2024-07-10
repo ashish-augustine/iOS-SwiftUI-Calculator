@@ -2,8 +2,8 @@
 //  CalculatorButtonProtocolMock.swift
 //  CalculatorReplicaSwiftUITests
 //
-//  Created by Alonso on 12/11/23.
-//  Copyright © 2023 Alonso. All rights reserved.
+//  Created by Ashish Augustine on 12/11/23.
+//  Copyright © 2023 Ashish Augustine. All rights reserved.
 //
 
 import SwiftUI

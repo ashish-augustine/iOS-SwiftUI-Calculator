@@ -2,8 +2,8 @@
 //  View+Utilities.swift
 //  CalculatorReplicaSwiftUI
 //
-//  Created by Alonso on 14/12/21.
-//  Copyright © 2021 Alonso. All rights reserved.
+//  Created by Ashish Augustine on 14/12/21.
+//  Copyright © 2021 Ashish Augustine. All rights reserved.
 //
 
 import SwiftUI

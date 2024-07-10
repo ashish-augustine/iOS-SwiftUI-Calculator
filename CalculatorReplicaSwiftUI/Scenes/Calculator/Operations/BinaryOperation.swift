@@ -2,8 +2,8 @@
 //  BinaryOperation.swift
 //  CalculatorReplicaSwiftUI
 //
-//  Created by Alonso on 16/01/24.
-//  Copyright © 2024 Alonso. All rights reserved.
+//  Created by Ashish Augustine on 16/01/24.
+//  Copyright © 2024 Ashish Augustine. All rights reserved.
 //
 
 struct BinaryOperation {
